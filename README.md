@@ -1,1 +1,1 @@
-# CLASS-BOX-GROUND
+# Box Class
